@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Thursday Kyoto → Tokyo · May 28</name>
+  <description><![CDATA[08:00-15:00 E-bike tour · Your24 keeps room · 17:30 Shinkansen · Tokyo yakitori dinner]]></description>
+
+  <Style id="locked"><IconStyle><scale>1.3</scale><Icon><href>https://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href></Icon></IconStyle></Style>
+  <Style id="major"><IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style>
+  <Style id="bonus"><IconStyle><scale>0.9</scale><Icon><href>https://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href></Icon></IconStyle></Style>
+  <Style id="station"><IconStyle><scale>0.9</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/rail.png</href></Icon></IconStyle></Style>
+
+  <Folder>
+    <name>LOCKED — confirmed bookings / hard anchors</name>
+    <Placemark>
+      <name>Cycle Kyoto E-bike Tour (Early Bird East Kyoto)</name>
+      <description><![CDATA[<b>ARRIVE 07:45 · STARTS 08:00 · ENDS 15:00 · 2 guests · lunch included</b><br><br><b>BOOKING:</b> ✅ CONFIRMED · 2 guests · ¥44,880 paid · INCLUDES helmet, e-bike, water, lunch · cancel >24hr = 100% refund · rain cancellation = 100% refund<br><br><b>WHAT IT IS:</b> 7-hour e-bike tour of East Kyoto (Higashiyama, philosopher's path area, lesser-known temples). Starts at Cycle Kyoto HQ at 7 Higashikujo Nishisannocho in Minami Ward, ~10 min from Kyoto Station.<br><br><b>WHY FOR YOU:</b> Real exercise + serious sightseeing + some-hiking thread + machinery/transit interest. E-bike means hills aren't a problem (East Kyoto has hills). Lunch included.<br><br><b>KNOWN FOR:</b> Cycle Kyoto runs the Early Bird tour as their top product — small group, English-speaking guides, e-bikes mean broader range than walking. Lunch included.<br><br>Address: 7 Higashikujō Nishisannōchō, Minami Ward, Kyoto 601-8003 · phone +81 80-2137-6549 · kyotocycle@gmail.com<br><br><b>↪ From Ritz: taxi 15 min ¥1,500-2,000 · LEAVE 07:25 to arrive 07:45</b>]]></description>
+      <styleUrl>#locked</styleUrl>
+      <Point><coordinates>135.7588,34.9836,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Ritz-Carlton Kyoto (Your24 keeps room till 15:00)</name>
+      <description><![CDATA[<b>Checkout NOMINAL 12:00 · YOUR24 KEEPS ROOM UNTIL 15:00</b><br><br><b>BOOKING:</b> Your24™: keep room until same time as check-in (15:00) — message Ambassador 24 hr ahead to confirm. Critical for showering and changing AFTER the tour before Shinkansen.<br><br><b>WHAT IT IS:</b> Your hotel room from Wednesday night. Without Your24 flex, you check out at 12:00 (during the bike tour) and your bags would go to bell storage. WITH Your24, your room stays yours until 15:00 — shower, change, repack in private after a 7-hour sweaty ride.<br><br><b>WHY FOR YOU:</b> Critical logistics: the bike tour is 7 hours of cycling in late-May Kyoto humidity. You'll want to shower before a 2+ hour Shinkansen and a Tokyo dinner.<br><br><b>KNOWN FOR:</b> Your24 is a Marriott elite benefit specifically — message your Ambassador 24-48hr ahead to activate. Confirms the room hold by name.<br><br><b>↪ From bike tour end at 15:00: taxi 15 min to Ritz</b>]]></description>
+      <styleUrl>#locked</styleUrl>
+      <Point><coordinates>135.7707,35.0163,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Shinkansen Nozomi 270 (Kyoto → Tokyo)</name>
+      <description><![CDATA[<b>BOARD 17:20 · DEPART 17:30 · ARRIVE Tokyo 19:45</b><br><br><b>BOOKING:</b> ✅ CONFIRMED · Green Car · seats C (aisle) + D (window) · D-side is SOUTH/Pacific (not Fuji side — but Fuji passage is at twilight ~18:30 anyway, not visible)<br><br><b>WHAT IT IS:</b> Nozomi 270 N700, Kyoto Station → Tokyo Station direct. Same Green Car amenities (attendant, oshibori, power, Wi-Fi). 2 hr 15 min ride.<br><br><b>WHY FOR YOU:</b> Right side seats face south = Pacific coast scenery in late-afternoon golden hour. Don't bother walking to vestibule for Fuji — passage is 18:30-18:45, twilight, Fuji silhouette only.<br><br><b>KNOWN FOR:</b> Last Nozomi services run after 21:00; you have buffer. Arrive Tokyo Station 19:45, plenty of time for Tokyo dinner.<br><br><b>↪ Arrive Kyoto Station Hachijo entrance by 17:00 · platform 11 or 12 typical for Nozomi</b>]]></description>
+      <styleUrl>#locked</styleUrl>
+      <Point><coordinates>135.7588,34.9858,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>MAJOR — the planned spine</name>
+    <Placemark>
+      <name>Pre-tour: quick breakfast at Ritz / takeaway</name>
+      <description><![CDATA[<b>06:45-07:15 · light fuel for the ride</b><br><br><b>WHAT IT IS:</b> Light breakfast before 7-hour bike ride. Ritz has The Lobby Lounge breakfast from 06:30; otherwise grab takeaway pastry + coffee.<br><br><b>WHY FOR YOU:</b> You'll get lunch on the tour (included). Don't load up at breakfast or you'll regret it on the bike.<br><br><b>↪ Eat at Ritz then taxi at 07:25 to Cycle Kyoto</b>]]></description>
+      <styleUrl>#major</styleUrl>
+      <Point><coordinates>135.7707,35.0163,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Post-tour shower at Ritz (15:00-16:00)</name>
+      <description><![CDATA[<b>15:00-16:00 · Your24 room hold</b><br><br><b>WHAT IT IS:</b> Shower, change, repack, drop room key, head to Kyoto Station.<br><br><b>WHY FOR YOU:</b> Your24 makes this clean. Without it you'd be changing in a hotel restroom.<br><br><b>↪ Taxi from Cycle Kyoto to Ritz ~15 min · then taxi to Kyoto Station ~15 min</b>]]></description>
+      <styleUrl>#major</styleUrl>
+      <Point><coordinates>135.7707,35.0163,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kyoto Station ekiben for the Shinkansen (16:30)</name>
+      <description><![CDATA[<b>16:30-17:00 · grab ekiben for the train</b><br><br><b>WHAT IT IS:</b> Kyoto Station has a serious ekiben (train bento) concourse including the famous Kyoto-only bentos (yuba, sea bream, regional specialties). Plus drink selection.<br><br><b>WHY FOR YOU:</b> More interesting than buying onboard. Ekiben on the Shinkansen is a Japan-specific eating experience — beautifully packed compartment bento, eaten with Mt. Fuji passing the window (or you, at twilight).<br><br><b>KNOWN FOR:</b> Kyoto Station concourse ekiben includes the rare specialty bentos (yuba-zushi, saba-zushi, regional kaiseki-styled boxes) not available outside Kyoto.<br><br><b>↪ Inside Kyoto Station, ekiben shops are at the Shinkansen concourse level</b>]]></description>
+      <styleUrl>#major</styleUrl>
+      <Point><coordinates>135.7588,34.9858,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Tokyo dinner (yakitori — awaiting concierge confirmation)</name>
+      <description><![CDATA[<b>~20:30-22:30 · pending concierge confirm</b><br><br><b>WHAT IT IS:</b> Three concierge-offered options pending your selection: Gonpachi Nishi Azabu, Kobe Beef 512, Cafe La Boheme. Your map-link suggestion also awaiting reply.<br><br><b>WHY FOR YOU:</b> Late slot because Shinkansen arrives Tokyo 19:45 + 30 min transit. A later-evening yakitori or quick Italian bistro is the right register for a tired post-ride night.<br><br><b>KNOWN FOR:</b> Gonpachi Nishi Azabu is the 'Kill Bill restaurant' (the set was modeled on it); Kobe Beef 512 is wagyu counter; Cafe La Boheme is reliable Italian-bistro chain near Hamamatsuchō.<br><br><b>↪ From Tokyo Station: depends on final dinner pick — Gonpachi/Kobe Beef are Roppongi (Hibiya line); La Boheme has a Hamamatsuchō branch walkable from hotel</b>]]></description>
+      <styleUrl>#major</styleUrl>
+      <Point><coordinates>139.722,35.6644,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>InterContinental Tokyo Bay (HOME — end of day)</name>
+      <description><![CDATA[<b>~22:30-23:30 home</b><br><br><b>WHAT IT IS:</b> Your home base for the final two nights.<br><br><b>↪ From Tokyo dinner: depends on neighborhood · Hibiya line + Yamanote typical</b>]]></description>
+      <styleUrl>#major</styleUrl>
+      <Point><coordinates>139.7591,35.6549,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>BONUS — discovery zone</name>
+    <Placemark>
+      <name>JR Kyoto Isetan Eat Paradise 11F (sit-down lunch alt)</name>
+      <description><![CDATA[<b>ONLY if you have 60+ min and want a sit-down meal</b><br><br><b>WHAT IT IS:</b> 11F of JR Kyoto Isetan (department store attached to Kyoto Station). Multiple restaurants including kaiseki-style lunch options.<br><br><b>WHY FOR YOU:</b> If your tour ends early OR you skip the Ritz-shower-return loop and have time, this is the highest-quality sit-down inside Kyoto Station.<br><br><b>KNOWN FOR:</b> Department-store restaurant floor; Kyoto-style multiple-restaurant cluster with English menus.<br><br><b>↪ Inside Kyoto Station, 11F of JR Kyoto Isetan</b>]]></description>
+      <styleUrl>#bonus</styleUrl>
+      <Point><coordinates>135.7592,34.9858,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kyoto Station Hachijo exit luggage lockers</name>
+      <description><![CDATA[<b>Alternative if you skip Ritz return</b><br><br><b>WHAT IT IS:</b> Large-size coin lockers near the Hachijo exit. ¥600-800 for full-size bag, 24-hour limit.<br><br><b>WHY FOR YOU:</b> Plan B: if e-bike tour runs late and you can't go back to the Ritz to shower, leave bags here from morning, do quick spa or station shower (some stations have shower facilities), board train.<br><br><b>KNOWN FOR:</b> Hachijo side has the largest lockers; cards + coin payment.]]></description>
+      <styleUrl>#bonus</styleUrl>
+      <Point><coordinates>135.759,34.9852,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kyoto Tower spa shower (emergency option)</name>
+      <description><![CDATA[<b>If desperate · daily ~7:00-22:00</b><br><br><b>WHAT IT IS:</b> Kyoto Tower basement bathhouse — public bath + shower facility. ¥770 entry, towels available.<br><br><b>WHY FOR YOU:</b> Emergency post-bike-tour shower if Your24 falls through. 5 min walk from Kyoto Station.<br><br><b>KNOWN FOR:</b> Kyoto's only major in-city bathhouse near the station; cheap; cleanish.]]></description>
+      <styleUrl>#bonus</styleUrl>
+      <Point><coordinates>135.7595,34.9874,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>STATIONS — transit hubs</name>
+    <Placemark>
+      <name>Kyoto Station (Shinkansen)</name>
+      <description><![CDATA[<b>Depart 17:30 · arrive by 17:00</b><br><br><b>WHAT IT IS:</b> Hachijo (south) side for Shinkansen platforms 11/12 typical for Nozomi services.]]></description>
+      <styleUrl>#station</styleUrl>
+      <Point><coordinates>135.7588,34.9858,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Tokyo Station</name>
+      <description><![CDATA[<b>Arrive 19:45</b><br><br><b>WHAT IT IS:</b> From Tokyo Station to InterContinental: Yamanote to Hamamatsuchō ~5 min + walk OR Marunouchi line to Ginza + Yurikamome.]]></description>
+      <styleUrl>#station</styleUrl>
+      <Point><coordinates>139.7671,35.6812,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Hamamatsuchō (JR Yamanote)</name>
+      <description><![CDATA[<b>hotel-side · 8 min walk</b><br><br><b>WHAT IT IS:</b> Yamanote loop. 5 min from Tokyo Station, then 8 min walk to hotel.]]></description>
+      <styleUrl>#station</styleUrl>
+      <Point><coordinates>139.7569,35.6553,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>
